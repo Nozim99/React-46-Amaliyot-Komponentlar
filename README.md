@@ -1,0 +1,1 @@
+Onlayn saytda ko'rinishi. O'zingiz sinab ko'ring [Link](https://react-46-funksional-sekundomer.netlify.app/)
